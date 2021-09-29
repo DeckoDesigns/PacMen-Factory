@@ -1,6 +1,6 @@
 # PacMen-Factory
 ## Description 
-A coding project consisiting of Pacmen being geneerated at a click of a button. Every click equates to one PacMen bursting forth and moving along the screen randomly, only limited by screen space. 
+A coding project consisiting of Pacmen being generated at a click of a button. Every click equates to one PacMen bursting forth and moving along the screen randomly, only limited by screen space. 
 ## How to Run
 - Download the files and paste the HTML page into a broswer of your choice: Chrome, Firefox, Safari
 - Alternately, If you use Video Studio Code editing software you can download a free plug-in https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
